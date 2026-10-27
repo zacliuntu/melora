@@ -1,0 +1,17 @@
+.venv/
+.bootstrap/
+data/
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+__pycache__/
+.pytest_cache/
+*.log
+frontend/*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+.DS_Store
+*.pyc

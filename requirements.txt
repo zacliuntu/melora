@@ -1,0 +1,9 @@
+basic-pitch==0.4.0
+setuptools==80.9.0  # resampy 0.4.2 still imports pkg_resources
+numpy>=1.23,<2
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+python-multipart>=0.0.18
+music21>=9.1,<10
+httpx>=0.27,<1
+pytest>=8,<9
